@@ -1,0 +1,20 @@
+# Скомпилированные python файлы.
+*.pyc
+
+# Скомпилированные Ren'Py файлы.
+*.rpyc
+*.rpyb
+*.rpymc
+
+# Файлы логов от Ren'Py.
+log.txt
+errors.txt
+traceback.txt
+lint.txt
+
+# Файлы ассетов
+*.png
+
+# Служебные папки
+game/cache
+game/saves
